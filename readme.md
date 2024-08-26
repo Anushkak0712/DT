@@ -1,3 +1,16 @@
+# **TASK-1**
+
+## Postman testing video link : 
+https://drive.google.com/file/d/1H9X7IXMa-xS74I4nqlrjxKwy2um6RaOK/view?usp=sharing
+
+
+
+
+# **TASK-2**
+
+
+
+
 
 # Nudge Management API Documentation
 
@@ -82,7 +95,8 @@ The data structure for a nudge includes the following fields:
       "icon": "event_icon",
       "invitation": "Don't miss out on the fun!"
     }
-  ]```
+  ]
+  ```
 ### 2. Create a New Nudge
 - **Request:** `POST /api/v1/nudges`
 - **Payload:**
